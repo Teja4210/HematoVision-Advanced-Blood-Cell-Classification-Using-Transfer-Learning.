@@ -1,4 +1,5 @@
-# HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.
+# Smart Sorting: Transfer Learning for Identifying Rotten Fruits and 
+Vegetables.
 My project is about Smart Sorting to transfer learning for identifying rotten fruits and vegetables
 
 Project Description:
